@@ -1,0 +1,6 @@
+{
+  "name": "USCIS Visa Tracker",
+  "description": "A comprehensive, data-driven immigration tracker to manage receipt status, generate form-specific timelines, calculate fees, and leverage Gemini AI to analyze case progress, predict milestones, and draft cover letters or expedite documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
